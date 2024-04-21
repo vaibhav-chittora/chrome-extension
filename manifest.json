@@ -1,0 +1,12 @@
+{
+    "name": "Cricket Live",
+    "version": "1.0.0",
+    "description": "A chrome extension which shows the live scores and news of cricket, mostly IPL.",
+    "manifest_version": 3,
+    "author": "Vaibhav Chittora",
+    "action":{
+       "default_popup": "index.html" ,
+       "default_title": "Cricket Live"
+    }
+
+}
